@@ -1,8 +1,8 @@
 ## data_science
-**Repository is for applying different logicstic models and comparing them in python**
+**Repository contains implementation of different logistic models and comparing them using data science libraries available in python**
 
 * What is the question you hope to answer?  
-	Scope of the project is to able to compare different classfying models viz Logicstic Regresstion , Single Decision Tree and Ensemble (Random Forrest).  
+	Scope of the project is to able to compare different classifying models namely Logistic Regression , Single Decision Tree and Ensemble (Random Forrest).  
 
 *  What data are you planning to use to answer that question?  
 	Data is based on **NBA 2014=2015** shots data of different players in different positions in different games whether they basketed or not.  
